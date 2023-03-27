@@ -1,0 +1,170 @@
+﻿.container{
+    padding:20px;
+    
+}
+.header{
+    width:100%;
+    background-color:#ff914d ;
+    height:120px;
+    padding-top:15px;
+    padding-bottom:15px;
+    border-radius: 20px;
+}
+.header-left{
+    padding: 10px;
+    float: left;
+    width: 50%;
+}
+.header-right{
+    float:right;
+    font-size: larger;
+    padding: 50px 20px 0px 0px;
+}
+    
+
+
+.main{
+    padding:10px 0px 10px 0px;
+}
+.main-left{
+    width: 20%;
+    height:400px;
+    float:left;
+    margin-right:10px;
+    
+    
+}
+.main-right{
+    width:68%;
+    height:400px;
+    background-color:rgb(177, 184, 190);
+    float:left;
+    display:flex;
+    padding:5px;
+    border-radius: 10px;
+    
+}
+.product{
+    width:24%;
+    height:400px;
+    background-color:white;
+    margin-right:10px;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.product h3{
+    color:rgb(47, 47, 49);
+    text-align: center;
+}
+.product-footer{
+    
+    height:20px;
+}
+.price-information{
+    width:50%;
+    float:left;
+    font-size:15px;
+    font-family:Arial;
+    
+}
+.price-information span{
+    font-size:12px;
+    
+
+}
+.more-detail{
+    width:50%;
+    float:right;
+    text-align:right;
+    font-family:Arial;
+    font-size:14px;
+
+}
+header-left{
+    width:15%;
+    float:left;
+}
+header-right{
+    width:15%;
+    float:left;
+
+}
+.menu-item{
+    font-size:16px;
+    font-family:Arial;
+    font-weight:bold;
+    padding:10px 0px 10px 10px;
+    background-color:white;
+    margin-top:10px;
+}
+.menu-item:first-child{
+    background-color:rgb(209, 208, 208);
+
+}
+
+.menu-item:hover{
+    background-color:rgb(209, 208, 208);
+    color:orange;
+    cursor:pointer;
+    text-decoration:underline;
+    border-radius: 10px;
+    
+}
+.product-image{
+    text-align:center;
+}
+.product:hover{
+    
+    color:orange;
+    cursor:pointer;
+    text-decoration:underline;
+    border-color:orange;
+}
+.product p{
+    background-color: rgb(87, 87, 81);
+    border-radius: 10px;
+    text-align: center;
+
+}
+.product-photo{
+   
+    float: left;
+    margin-left: 50px;
+}
+.product-feature{
+    
+    float:left;
+    width: 60%;
+    padding: 10px;
+    color: purple;
+   
+}
+.product-price{
+    margin-top: 10px ;
+    padding: 10px;
+    width: 60%;
+    height: 100px;
+   
+    float:left;
+    
+}
+.product-detail{
+    float: auto;
+    font-family: Arial;
+    
+}
+.footer{
+    font-size: small;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    background-color:rgb(209, 208, 208);
+    float: left;
+    width:96%;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif ;
+    
+    padding-top:15px;
+    padding-bottom:15px;
+    border-radius: 20px;
+}
